@@ -1,0 +1,3 @@
+# action to push to all my repos in the galaxy. 
+
+on: [push] 
